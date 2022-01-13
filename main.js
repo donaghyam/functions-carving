@@ -1,12 +1,12 @@
 const createWoodBlock = () => {
     // Return an object with 4 properties.
-    const woodlock {
+    const woodblock = {
         type: "wood block",
         length: 10,
         material: "pine",
         purpose: "flute"
     }
-    return woodBlock
+    return woodblock
 }
 
 const createBeautifulCarving = (woodObject) => {
